@@ -1,0 +1,17 @@
+{
+  "name": "inline-all",
+  "version": "1.0.0",
+  "description": "Example for inlining related sources to HTML files using gulp and gulp-inline-source",
+  "author": "Artem Petrenkov <static.lab@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-inline-source": "2.1.0",
+    "gulp-livescript": "3.0.1",
+    "gulp-postcss": "6.1.1",
+    "gulp-pug": "3.0.3",
+    "gulp-sass": "2.3.2",
+    "livescript": "1.5.0",
+    "postcss-url": "5.1.2"
+  }
+}
